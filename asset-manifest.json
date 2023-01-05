@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/shopping_list_via_pages/static/css/main.385fae6e.css",
+    "main.js": "/shopping_list_via_pages/static/js/main.c8b0ef0d.js",
+    "static/media/shopping1.jpg": "/shopping_list_via_pages/static/media/shopping1.ba2b7372db08027f9a18.jpg",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/shopping_list_via_pages/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/shopping_list_via_pages/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/shopping_list_via_pages/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/shopping_list_via_pages/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/shopping_list_via_pages/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/shopping_list_via_pages/index.html",
+    "main.385fae6e.css.map": "/shopping_list_via_pages/static/css/main.385fae6e.css.map",
+    "main.c8b0ef0d.js.map": "/shopping_list_via_pages/static/js/main.c8b0ef0d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.385fae6e.css",
+    "static/js/main.c8b0ef0d.js"
+  ]
+}
